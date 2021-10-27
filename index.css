@@ -1,0 +1,30 @@
+
+*{
+    box-sizing: border-box;
+    
+
+}
+.card{
+    justify-content: center;
+}
+.title{
+    
+    display: block;
+    margin: 10px 14px;
+    height:150px;
+    border-radius: 10px;
+    width: 400px;
+    border: 2px solid red;
+    background-color: brown;
+    
+}
+.h{
+    display: block;
+    background-color: aqua;
+    margin-top: 40px;
+    padding: 12px;
+    text-align: center;
+}
+button{
+    width: 50px;
+}
